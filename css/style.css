@@ -43,6 +43,15 @@ figcaption {
 /* ID slector (apply to one uq. element) */
 #logo { /* ID slector,select elemnt id = "logo" */
 background: aqua;
+}
 
+/* Descendent Selector */
+#logo h1 { /* selects h1 if inside id="logo"*/
+font-family:  "Clicker Script", cursive;
+
+}
+
+#logo h2 { /* selects h1 if inside id="logo"*/
+font-family:  "Elsie", cursive;
 
 }
