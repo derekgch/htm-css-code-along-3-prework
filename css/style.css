@@ -32,7 +32,7 @@ figcaption {
 }
 
 
-/*class slector */ (applied to as many element as needed)
+/*class slector  (applied to as many element as needed)*/
 .milk-text {
   font:bold 2.6em 'Elsei', cursive;
   color: white;
@@ -41,3 +41,7 @@ figcaption {
 }
 
 /* ID slector (apply to one uq. element) */
+#logo {
+
+
+}
