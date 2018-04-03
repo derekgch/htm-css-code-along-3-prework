@@ -30,3 +30,13 @@ figcaption {
   color: #34567f;
   text-align: right;
 }
+
+
+/*class slector */
+.milk-text {
+  font:bold 2.6em 'Elsei', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+
+
+}
