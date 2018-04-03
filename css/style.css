@@ -42,6 +42,7 @@ figcaption {
 
 /* ID slector (apply to one uq. element) */
 #logo { /* ID slector,select elemnt id = "logo" */
+background: aqua;
 
 
 }
